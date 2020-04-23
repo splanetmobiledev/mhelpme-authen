@@ -1,0 +1,2 @@
+include ':app', ':mhelpme-authentication'
+rootProject.name='M-Help Me Lib'

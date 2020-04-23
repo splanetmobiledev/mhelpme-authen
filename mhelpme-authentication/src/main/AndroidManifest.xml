@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.prasit.mhelpme_authentication">
+
+    <application>
+        <activity android:name="com.prasit.mhelpme_authentication.Authentication">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="recive_login"
+                    android:scheme="mhelpme" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
