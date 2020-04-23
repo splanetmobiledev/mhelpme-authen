@@ -12,10 +12,10 @@ ext {
 
     libraryDescription = 'M-Help Me authentication'
 
-    siteUrl = 'http://phattarapong@202.170.122.245:7990/scm/pmhml/android-master.git'
-    gitUrl = 'http://phattarapong@202.170.122.245:7990/scm/pmhml/android-master.git'
+    siteUrl = 'https://github.com/splanetmobiledev/mhelpme-authen'
+    gitUrl = 'https://github.com/splanetmobiledev/mhelpme-authen'
 
-    libraryVersion = '1.0.1'
+    libraryVersion = '1.0.2'
 
     developerId = 'prasit'
     developerName = 'Prasit Jeawkok'
